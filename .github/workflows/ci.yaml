@@ -1,12 +1,8 @@
 name: Build and Test
 
 on:
-  pull_request:
-    branches:
-      - v4
   push:
-    branches:
-      - v4
+    branches: ["main"]
   workflow_dispatch:
 
 jobs:
