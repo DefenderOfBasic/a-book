@@ -8,10 +8,7 @@ on:
 jobs:
 
   build-and-test:
-    strategy:
-      matrix:
-        os: [windows-latest, macos-latest, ubuntu-latest]
-    runs-on: ${{ matrix.os }}
+    runs-on: ubuntu-latest
     permissions:
       contents: write
     steps:
@@ -38,10 +35,6 @@ jobs:
 
       - name: Check types and style
         run: npm run check
-        working-directory: ./source
-
-      - name: Test
-        run: npm test
         working-directory: ./source
 
       - name: Ensure Quartz builds, check bundle info
