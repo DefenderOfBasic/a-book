@@ -64,7 +64,7 @@ jobs:
 
       - name: Build Quartz
         run: |
-          npm ci
+          npm install
           npx quartz build
         working-directory: ./source
 
