@@ -1,6 +1,6 @@
 ---
-title: Welcome to Quartz
+title: This is a book about a book
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+
+Source code: https://github.com/DefenderOfBasic/a-book
