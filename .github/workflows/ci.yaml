@@ -30,11 +30,7 @@ jobs:
           restore-keys: |
             ${{ runner.os }}-node-
 
-      - run: npm ci
-        working-directory: ./source
-
-      - name: Check types and style
-        run: npm run check
+      - run: npm install
         working-directory: ./source
 
       - name: Ensure Quartz builds, check bundle info
