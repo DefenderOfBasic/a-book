@@ -2,6 +2,8 @@
 
 This is a book about the best book that humanity ever wrote.
 
+https://defenderofbasic.github.io/a-book/
+
 ### Setup
 
 Inside of `source/`, npm install then:
