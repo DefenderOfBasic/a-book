@@ -37,7 +37,7 @@ jobs:
         working-directory: ./source
 
       - name: test
-        run: npx quartz
+        run: node ./quartz/bootstrap-cli.mjs
         working-directory: ./source
 
       - name: Ensure Quartz builds, check bundle info
