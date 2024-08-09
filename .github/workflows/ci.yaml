@@ -29,11 +29,6 @@ jobs:
           restore-keys: |
             ${{ runner.os }}-node-
 
-      - run: ls
-        
-      - run: ls
-        working-directory: ./source
-
       - run: npm install
         working-directory: ./source
 
