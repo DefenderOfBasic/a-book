@@ -1,4 +1,5 @@
-# Employee of the World - Onboarding Guide
+# Employee of the World 
+### a handbook for new employees
 (working title)
 
 <img src="https://github.com/user-attachments/assets/a7067135-2756-40fe-a451-a8ab8d53d7da" width="400" />
