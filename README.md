@@ -1,15 +1,8 @@
-### Employee of the World 
-an onboarding handbook from the future (working title)
+### Onboarding Guide For Employees of the World
 
-<img src="https://github.com/user-attachments/assets/a7067135-2756-40fe-a451-a8ab8d53d7da" width="400" />
+_an onboarding handbook from the future (working title)_
 
-I am writing an open source book about the best possible future I can envision for myself and my world. See [introductory post explaining the idea](https://defenderofthebasic.substack.com/p/i-started-writing-a-book)
+An open source book about the best possible future I can envision for myself and my world. See all posts so far: https://defenderofthebasic.substack.com/t/book
 
-### Setup
 
-Inside of `source/`, npm install then:
-
-```
-npx quartz build --serve
-```
 
