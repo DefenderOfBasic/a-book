@@ -1,0 +1,17 @@
+[book]
+authors = ["Defender"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Where Are We Headed"
+
+[output.html]
+edit-url-template = "https://github.com/DefenderOfBasic/a-book/edit/main/{path}"
+default-theme = "ayu"
+
+[output.html.print]
+enable = false 
+
+[output.html.fold]
+enable = true
+level = 0 

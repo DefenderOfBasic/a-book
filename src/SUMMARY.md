@@ -1,10 +1,11 @@
 # Summary
 
-[Preface](README.md)
+[Introduction](introduction.md)
+[Outline](outline.md)
 
-# Chapter 1
+# Concepts
 
-- [Placeholder section]()
-- [WIP section](wip_section.md)
+- [A Place for Everyone]()
 
-[Conclusion](conclusion.md)
+[Collaborators](collaborators.md)
+[Rejected](rejected.md)
