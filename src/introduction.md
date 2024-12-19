@@ -20,10 +20,7 @@ If you find the ideas in this book terrible, I invite you to improve it! You can
 
 > Interested in the emerging consilience between science and morality and what the next chapter of this wacky story might look like. 
 >
-> _[Sam Barton](https://bsky.app/profile/samhbarton.bsky.social)
-
-
-![](images/earth-0.png)
+> _[Sam Barton](https://bsky.app/profile/samhbarton.bsky.social)_
 
 
 [^1]: If you don't think this is true for you, reach out to me! The plan is to have an "open source" process for us to all to calibrate & find our place. See ["spaceship earth needs a meaningful work office"](https://x.com/DefenderOfBasic/status/1862195085862941180)

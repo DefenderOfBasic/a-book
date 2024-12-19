@@ -3,7 +3,7 @@ authors = ["Defender"]
 language = "en"
 multilingual = false
 src = "src"
-title = "Where Are We Headed"
+title = "Where Are We Going?"
 
 [output.html]
 edit-url-template = "https://github.com/DefenderOfBasic/a-book/edit/main/{path}"
